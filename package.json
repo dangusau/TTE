@@ -1,0 +1,13 @@
+{
+  "name": "dataearn-bot",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "dependencies": {
+    "dotenv": "^16.0.3",
+    "mongoose": "^7.0.3",
+    "telegraf": "^4.11.2"
+  }
+}
